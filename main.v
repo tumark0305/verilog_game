@@ -6,7 +6,6 @@ input	reset;
 input	upB;
 input	dwB;
 
-
 output	[7:0]	LCD_DATA;
 output	LCD_RW;
 output	LCD_EN;
